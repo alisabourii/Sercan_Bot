@@ -1,2 +1,7 @@
 # Sercan_Bot
-First Bot code
+
+Hello Every One This is Ali Sabouri From Sercan Bot Developers Team.
+
+This Bot Just Following a Line and Fisished Linly Road
+
+
